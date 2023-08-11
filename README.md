@@ -27,7 +27,7 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Marcos
 
 Me gusta ...
 
