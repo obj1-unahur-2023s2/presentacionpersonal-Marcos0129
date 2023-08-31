@@ -27,12 +27,5 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo Marcos
-
-Me gusta ...
-
-Me dedico a / Trabajo de ...
-
-Les dejo una imagen mía 
-
-![subir archivo de imagen](imagen.jpg)
+Me llamo Marcos. Tengo 22 años, soy estudiante de Tecnicatura en Programación en la Universidad Nacional de Hurlingham
+Me gustan los deportes, la informática, los juegos y los perros. 
